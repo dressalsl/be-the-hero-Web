@@ -2,14 +2,13 @@ import React from 'react';
 
 import './global.css'
 
-import Login from './pages/Login';
+import Routes from './routes';
 
 //.jsx = javascript e XML
 
 function App() {
   return (
-    <div className="login-container"></div>
-    <session className="forms"></session>
+    <Routes></Routes>
   );
 }
 
