@@ -24,8 +24,6 @@ Be The Hero é um projeto que tem o intuito de conectar Ong's com pessoas que qu
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
 
 ## Instalação & Execução 🚀
 
